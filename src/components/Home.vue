@@ -16,13 +16,13 @@
           <br>
           Ready to bring fresh ideas and problem solving skills to new Projects.
         </p>
-        <div class="flex flex-row my-6 space-x-4 md:space-x-8 items-center animate-fade-in-up">
-          <img src="../assets/gopher.png" alt="golang" class="w-[50px] ">
-          <img src="../assets/psql.png" alt="golang" class="w-[75px] ">
-          <img src="../assets/vue.png" alt="golang" class="w-[60px]">
-          <img src="../assets/git.png" alt="golang" class="w-[50px] ">
-          <img src="../assets/docker.png" alt="golang" class="w-[60px]">
-          <img src="../assets/tailwind.png" alt="golang" class="w-[70px]">
+        <div class="flex flex-wrap my-6 space-x-4 md:space-x-8 items-center justify-center animate-fade-in-up">
+          <img src="../assets/gopher.png" alt="golang" class="w-16 md:w-20 ">
+          <img src="../assets/psql.png" alt="golang" class="w-16 md:w-20">
+          <img src="../assets/vue.png" alt="golang" class="w-16 md:w-20">
+          <img src="../assets/git.png" alt="golang" class="w-16 md:w-20">
+          <img src="../assets/docker.png" alt="golang" class="w-16 md:w-20">
+          <img src="../assets/tailwind.png" alt="golang" class="w-16 md:w-20">
         </div>
         <router-link to="/profile"
           class="block mt-4 px-4 py-4 md:py-6 bg-green-300 rounded-xl mb-8 text-center font-bold active:bg-green-400 transition delay-150 duration-200 ease-in-out hover:scale-110 hover:bg-green-500 animate-fade-in-up ">Get

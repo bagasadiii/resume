@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory } from "vue-router";
 import Homepage from "../pages/Homepage.vue";
 import ProfilePage from "../pages/ProfilePage.vue";
 import ContactPage from "../pages/ContactPage.vue";
@@ -12,7 +12,7 @@ const routes = [
   { path: "/post", component: PostPage },
 ]
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(import.meta.env.BASE_URL),
   routes,
 })
 export default router
