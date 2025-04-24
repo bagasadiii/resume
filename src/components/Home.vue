@@ -8,11 +8,14 @@
       <h1 class="md:hidden text-3xl text-blue-950 text-center pb-6 animate-fade-in-up">Bagas Adi Susetyo</h1>
 
       <!-- Image -->
-      <img src="../assets/Bagas.jpeg" alt="Bagas Adi" class="rounded-2xl w-[300px] h-[400px] md:animate-fade-in-right delay-500">
+      <img src="../assets/Bagas.jpeg" alt="Bagas Adi"
+        class="rounded-2xl w-[300px] h-[400px] md:animate-fade-in-right delay-500">
       <div class="mt-5 flex flex-col md:ml-16 items-center md:items-start text-blue-950">
-        <span class="block animate-fade-in-right delay-300 text-3xl md:text-4xl mb-4 font-bold">Self-taught developer</span>
-        <p class="text-center text-xl md:text-left md:text-2xl animate-fade-in-right delay-300">
-          With the passion for software engineering. Focused on backend or fullstack development with <span class="font-bold">Go</span> and <span class="font-bold">Vue</span>.
+        <span class="block animate-fade-in-right delay-300 text-3xl md:text-4xl mb-4 font-bold">Self-taught
+          developer</span>
+        <p class="text-center md:text-left md:text-xl animate-fade-in-right delay-300">
+          With the passion for software engineering. Focused on backend or fullstack development with <span
+            class="font-bold">Go</span> and <span class="font-bold">Vue</span>.
           <br>
           Ready to bring fresh ideas and problem solving skills to new Projects.
         </p>
